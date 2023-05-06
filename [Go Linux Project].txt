@@ -1,5 +1,5 @@
 [Go Linux Project]
-- DE: Hyprland
+- DE: KDE
 - shell: zsh omzsh
 - color scheme: https://github.com/catppuccin/catppuccin
 - prompt: https://github.com/starship/starship
