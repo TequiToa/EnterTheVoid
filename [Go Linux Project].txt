@@ -1,7 +1,7 @@
 [Go Linux Project]
 - DE: Hyprland
 - shell: zsh omzsh
-- terminal :
+- terminal : alacritty
 - color scheme: https://github.com/catppuccin/catppuccin
 - prompt: https://github.com/starship/starship
 - Icons: Papirus
