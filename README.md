@@ -61,8 +61,9 @@ En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considé
 
 ### Steam 
 **Steam** est un service de distribution de jeux populaire pour Linux, avec une grande sélection de jeux disponibles pour jouer.
-> Nom du package : sudo vpm install steam
-
+```bash
+sudo vpm install steam
+```
 ## Media Packages
 ### Videos Player
 #### MPV
