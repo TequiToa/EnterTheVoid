@@ -17,7 +17,7 @@ This is my **First Linux Rice**, my goal is to have a highly custom and performi
 ### VPM
 **VPM** pour "**Void Package Manager**", c'est un outil de gestion de paquets pour Void Linux. Il permet d'installer, de mettre à jour et de supprimer des paquets sur votre système Void. VPM utilise les dépôts officiels de Void pour les paquets, ainsi que les dépôts de la communauté pour certains paquets tiers. Il est similaire à d'autres gestionnaires de paquets tels que APT pour Debian et Ubuntu, ou Pacman pour Arch Linux.
 
-VPM Cheatsheet:
+[VPM Cheatsheet](./VPMCheatSheet.md)
 
 Installation d'un paquet:
 sudo vpm install <paquet>
@@ -41,7 +41,7 @@ Vous devez installer les pilotes Nvidia pour que votre carte graphique fonctionn
 ### Vulkan 
 Si vous voulez jouer à des jeux qui prennent en charge la technologie **Vulkan**, vous devez installer le pilote **Vulkan** pour votre carte graphique Nvidia. **Vulkan** est une API de rendu graphique qui peut offrir de meilleures performances que OpenGL.
 
-## Gestion de l'énergie 
+## Power Management 
 Il est important de gérer l'énergie de votre ordinateur portable lorsque vous jouez à des jeux pour éviter les problèmes de surchauffe. Utilisez des outils tels que **tlp** ou **powertop** pour gérer l'énergie de votre système.
 
 ### TLP
@@ -69,12 +69,30 @@ En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considé
 
 ## Steam 
 **Steam** est un service de distribution de jeux populaire pour Linux, avec une grande sélection de jeux disponibles pour jouer.
-> Nom du package : 
+> Nom du package : sudo vpm install steam
+
+## Media Packages
+### Videos Player
+#### MPV
+**MPV** est un lecteur multimédia open-source et gratuit pour les systèmes d'exploitation Linux, macOS et Windows. Il est basé sur MPlayer et mplayer2, qui sont des lecteurs multimédia populaires mais qui ne sont plus maintenus activement. Mpv prend en charge une large gamme de formats de fichiers multimédias et est connu pour sa légèreté et sa simplicité d'utilisation. Il est également entièrement personnalisable grâce à son support de scripts Lua et son architecture de plug-in.
+
+#### VLC
+**VLC** est un lecteur multimédia populaire qui peut lire une grande variété de formats de fichiers audio et vidéo.
+
+#### ani-cli
+**ani-cli** : https://github.com/pystardust/ani-cli
+
+##Music player
+NCMPCPP or ani spotify cli 
+
+### E-book and Manga Reader
+## cbz reader
+**zathura**
 
 ## Other Packages
-- neofetch : neofetch est un programme qui affiche des informations système telles que le nom de la distribution, la version du noyau et les spécifications de l'ordinateur. Cela peut être utile pour vérifier rapidement les caractéristiques de votre système.
+### neofetch
+**neofetch** est un programme qui affiche des informations système telles que le nom de la distribution, la version du noyau et les spécifications de l'ordinateur. Cela peut être utile pour vérifier rapidement les caractéristiques de votre système.
 
-- VLC : VLC est un lecteur multimédia populaire qui peut lire une grande variété de formats de fichiers audio et vidéo.
 
 ### Bottles
 **Bottles** facilite grandement l'utilisation de Wine en fournissant une interface graphique intuitive pour la gestion des configurations et des environnements virtuels de Wine. Il permet également de créer et de gérer plusieurs configurations de Wine pour différentes applications Windows, ce qui peut être très utile si vous avez besoin de faire fonctionner plusieurs applications Windows sur votre système Linux.
@@ -82,12 +100,6 @@ En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considé
 De plus, Bottles offre une intégration transparente avec le système de fichiers Linux, ce qui permet d'accéder facilement aux fichiers de l'application Windows depuis votre système de fichiers Linux. Cela rend également les fichiers de l'application Windows disponibles pour les sauvegardes, les restaurations et les transferts de fichiers.
 
 Bottles est disponible pour plusieurs distributions Linux, dont Ubuntu, Fedora, Debian, Manjaro et Arch Linux. Il est également open source et gratuit à utiliser.
-
-- cbz reader: zathura
-
-- ani-cli: https://github.com/pystardust/ani-cli
-
-- Music Player: NCMPCPP
 
 [Additional Ressources]
 - https://www.reddit.com/r/unixporn/comments/138ht06/kde_catppuccin_setup_of_my_dreams/
