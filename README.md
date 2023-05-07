@@ -52,7 +52,7 @@ Les deux outils peuvent être utilisés conjointement pour optimiser les perform
 
 En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considérablement les performances de leurs jeux, réduire la latence et les temps de chargement, et obtenir une meilleure expérience de jeu globale.
 
-## Steam 
+### Steam 
 **Steam** est un service de distribution de jeux populaire pour Linux, avec une grande sélection de jeux disponibles pour jouer.
 > Nom du package : sudo vpm install steam
 
