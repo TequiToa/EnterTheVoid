@@ -4,8 +4,10 @@
 - color scheme: https://github.com/catppuccin/catppuccin
 - prompt: https://github.com/starship/starship
 - Icons: Papirus
-- terminal: alacritty
+- terminal: kitty https://sw.kovidgoyal.net/kitty/
 - Notification daemon: Dunst
+
+
 - Pilotes Nvidia : Vous devez installer les pilotes Nvidia pour que votre carte graphique fonctionne correctement. Les pilotes propriétaires de Nvidia peuvent être téléchargés sur leur site web officiel ou installés à partir du gestionnaire de paquets de votre distribution Linux.
 
 - Vulkan : Si vous voulez jouer à des jeux qui prennent en charge la technologie Vulkan, vous devez installer le pilote Vulkan pour votre carte graphique Nvidia. Vulkan est une API de rendu graphique qui peut offrir de meilleures performances que OpenGL.
@@ -38,12 +40,14 @@ Magohud, quant à lui, est un script personnalisé qui permet d'afficher des sta
 Les deux outils peuvent être utilisés conjointement pour optimiser les performances des jeux sous Linux. En effet, Gamemode permet d'optimiser le système pour les jeux, tandis que Magohud permet de surveiller les performances du système pendant le jeu.
 
 En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considérablement les performances de leurs jeux, réduire la latence et les temps de chargement, et obtenir une meilleure expérience de jeu globale.
+
 - cbz reader: zathura
+
 - ani-cli: https://github.com/pystardust/ani-cli
+
 - Music Player: NCMPCPP
+
 [Additional Ressources]
 - https://www.reddit.com/r/unixporn/comments/138ht06/kde_catppuccin_setup_of_my_dreams/
 - https://www.reddit.com/r/unixporn/comments/1354so3/oc_rofigames_a_small_rust_program_which_lets_you/
-- https://github.com/FelixKratz/SketchyBar
-https://github.com/hyprwm/hyprpaper
-https://i.redd.it/d68v5rl608ya1.png
+- https://i.redd.it/d68v5rl608ya1.png
