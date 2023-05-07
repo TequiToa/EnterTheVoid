@@ -68,11 +68,11 @@ En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considé
 #### ani-cli
 **ani-cli** : https://github.com/pystardust/ani-cli
 
-## Music player
+### Music player
 NCMPCPP or ani spotify cli 
 
 ### E-book and Manga Reader
-## cbz reader
+#### cbz reader
 **zathura**
 
 ## Other Packages
