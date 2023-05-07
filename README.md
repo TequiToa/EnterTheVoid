@@ -23,6 +23,12 @@ sudo xbps-install herbstluftwm polybar xorg-minimal xorg-fonts xsetroot feh
 
 [VPM Cheatsheet](./VPMCheatSheet.md)
 
+### TEXT EDITOR
+#### CLI
+nano
+#### CODE
+VS CODE
+
 ### HTOP
 **HTOP** est une alternative améliorée de la commande "top", qui affiche les processus système en temps réel et peut vous aider à diagnostiquer les problèmes de performances de votre système.
 
