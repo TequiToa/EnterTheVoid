@@ -79,6 +79,9 @@ NCMPCPP or ani spotify cli
 #### cbz reader
 **zathura**
 
+## Font
+Monolisa patched with nerdfonts : https://github.com/nibirrayy/MonoLisa-nerdpatched
+
 ## Other Packages
 ### Bottles
 **Bottles** facilite grandement l'utilisation de Wine en fournissant une interface graphique intuitive pour la gestion des configurations et des environnements virtuels de Wine. Il permet également de créer et de gérer plusieurs configurations de Wine pour différentes applications Windows, ce qui peut être très utile si vous avez besoin de faire fonctionner plusieurs applications Windows sur votre système Linux.
