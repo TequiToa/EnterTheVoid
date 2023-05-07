@@ -1,0 +1,8 @@
+La configuration de nano dépend des préférences de l'utilisateur et de son utilisation. Cependant, voici quelques options de configuration courantes pour améliorer l'expérience d'utilisation de nano :
+- Activation de la numérotation des lignes : Ajoutez set linenumbers à votre fichier de configuration de nano (~/.nanorc). Cela affichera les numéros de ligne à gauche de l'éditeur.
+- Coloration syntaxique : Nano peut colorer la syntaxe du code pour différentes langues de programmation. Pour activer cette fonctionnalité, vous pouvez installer le paquet nano-syntax-highlighting sur Void Linux. Il est également possible de créer ses propres règles de coloration syntaxique en éditant le fichier ~/.nanorc.
+- Utilisation des onglets : Vous pouvez ajouter set tabsize 4 et set tabstospaces à votre fichier de configuration de nano (~/.nanorc). Cela définit la taille des tabulations à 4 espaces et remplace les tabulations par des espaces.
+- Changement de la couleur du texte : Vous pouvez personnaliser la couleur du texte en ajoutant set textcolor brightwhite à votre fichier de configuration de nano (~/.nanorc). Cette commande définit la couleur du texte sur blanc brillant.
+- Activation de la sauvegarde automatique : Pour activer la sauvegarde automatique des fichiers modifiés, ajoutez set autoindent, set backup et set backupdir ~/.nano à votre fichier de configuration de nano (~/.nanorc). Cela crée une copie de sauvegarde des fichiers modifiés dans le dossier ~/.nano.
+
+Ces options de configuration ne sont que des suggestions pour améliorer l'expérience d'utilisation de nano. N'hésitez pas à les ajuster en fonction de vos préférences.
