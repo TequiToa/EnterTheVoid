@@ -1,6 +1,6 @@
 Après avoir installé les paquets nécessaires, voici quelques modifications de configuration que je recommanderais :
 Pour utiliser Herbstluftwm, il faut créer un fichier de configuration ~/.config/herbstluftwm/autostart. Voici un exemple de configuration :
-```
+```bash
 # Set background with feh
 feh --bg-fill /path/to/wallpaper.jpg &
 
@@ -20,7 +20,7 @@ Ce fichier permet de lancer les applications que vous souhaitez et de configurer
 
 Pour configurer Polybar, vous devez créer un fichier de configuration ~/.config/polybar/config. Voici un exemple de configuration :
 
-```
+```bash
 [global/wm]
 wm-restack = 1
 
@@ -83,7 +83,7 @@ interval = 10
 Ce fichier permet de configurer l'apparence de la barre de Polybar et les modules affichés (ici, j'ai configuré la barre pour afficher les bureaux virtuels, les fenêtres en cours d'utilisation, la musique en cours de lecture, et la date et l'heure).
 Pour configurer Herbstluftwm, vous pouvez modifier le fichier ~/.config/herbstluftwm/autostart. Voici un exemple de configuration pour personnaliser le look de votre bureau :
 
-```
+```bash
 # Set background with feh
 feh --bg-fill /path/to/wallpaper.jpg &
 
