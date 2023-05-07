@@ -75,7 +75,7 @@ En utilisant ces deux outils, les joueurs sous Linux peuvent améliorer considé
 **ani-cli** : https://github.com/pystardust/ani-cli
 
 ### Music player
-NCMPCPP or ani spotify cli 
+[Music](./ChatGptSpotifyConfig.md)
 
 ### E-book and Manga Reader
 #### cbz reader
