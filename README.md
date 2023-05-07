@@ -21,6 +21,12 @@ Also learning more about linux and his packages and documenting everything :grin
 
 [VPM Cheatsheet](./VPMCheatSheet.md)
 
+### HTOP
+**HTOP** est une alternative améliorée de la commande "top", qui affiche les processus système en temps réel et peut vous aider à diagnostiquer les problèmes de performances de votre système.
+
+### neofetch
+**neofetch** est un programme qui affiche des informations système telles que le nom de la distribution, la version du noyau et les spécifications de l'ordinateur. Cela peut être utile pour vérifier rapidement les caractéristiques de votre système.
+
 ## Graphics package
 ### Pilotes Nvidia 
 Vous devez installer les pilotes Nvidia pour que votre carte graphique fonctionne correctement. Les pilotes propriétaires de Nvidia peuvent être téléchargés sur leur site web officiel ou installés à partir du gestionnaire de paquets de votre distribution Linux.
@@ -37,9 +43,6 @@ Il est important de gérer l'énergie de votre ordinateur portable lorsque vous 
  
 ### ACPI
 **ACPI** (Advanced Configuration and Power Interface) est utilisé pour la gestion de l'énergie et des périphériques sur votre ordinateur portable. Bien que la prise en charge d'ACPI sous Linux soit généralement bonne, vous pouvez rencontrer des problèmes avec certains composants matériels. Assurez-vous que votre distribution Linux prend en charge ACPI et vérifiez si les fonctionnalités d'économie d'énergie fonctionnent correctement.
-
-### HTOP
-**HTOP** est une alternative améliorée de la commande "top", qui affiche les processus système en temps réel et peut vous aider à diagnostiquer les problèmes de performances de votre système.
 
 ## Game Performances Packages
 Gamemode et Magohud sont deux outils destinés aux joueurs sous Linux qui cherchent à améliorer les performances de leurs jeux.
@@ -77,9 +80,6 @@ NCMPCPP or ani spotify cli
 **zathura**
 
 ## Other Packages
-### neofetch
-**neofetch** est un programme qui affiche des informations système telles que le nom de la distribution, la version du noyau et les spécifications de l'ordinateur. Cela peut être utile pour vérifier rapidement les caractéristiques de votre système.
-
 ### Bottles
 **Bottles** facilite grandement l'utilisation de Wine en fournissant une interface graphique intuitive pour la gestion des configurations et des environnements virtuels de Wine. Il permet également de créer et de gérer plusieurs configurations de Wine pour différentes applications Windows, ce qui peut être très utile si vous avez besoin de faire fonctionner plusieurs applications Windows sur votre système Linux.
 
@@ -87,7 +87,7 @@ De plus, Bottles offre une intégration transparente avec le système de fichier
 
 Bottles est disponible pour plusieurs distributions Linux, dont Ubuntu, Fedora, Debian, Manjaro et Arch Linux. Il est également open source et gratuit à utiliser.
 
-[Additional Ressources]
+[Additional Ressources and inspirations]
 - https://www.reddit.com/r/unixporn/comments/138ht06/kde_catppuccin_setup_of_my_dreams/
 - https://www.reddit.com/r/unixporn/comments/1354so3/oc_rofigames_a_small_rust_program_which_lets_you/
 - https://i.redd.it/d68v5rl608ya1.png
