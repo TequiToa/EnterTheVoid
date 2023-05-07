@@ -19,21 +19,6 @@ This is my **First Linux Rice**, my goal is to have a highly custom and performi
 
 [VPM Cheatsheet](./VPMCheatSheet.md)
 
-Installation d'un paquet:
-sudo vpm install <paquet>
-
-Suppression d'un paquet:
-sudo vpm remove <paquet>
-
-Mise à jour des informations des paquets:
-sudo vpm update
-
-Mise à jour de tous les paquets:
-sudo vpm upgrade
-
-Affichage de l'aide:
-vpm --help
-
 ## Graphics package
 ### Pilotes Nvidia 
 Vous devez installer les pilotes Nvidia pour que votre carte graphique fonctionne correctement. Les pilotes propriétaires de Nvidia peuvent être téléchargés sur leur site web officiel ou installés à partir du gestionnaire de paquets de votre distribution Linux.
@@ -92,7 +77,6 @@ NCMPCPP or ani spotify cli
 ## Other Packages
 ### neofetch
 **neofetch** est un programme qui affiche des informations système telles que le nom de la distribution, la version du noyau et les spécifications de l'ordinateur. Cela peut être utile pour vérifier rapidement les caractéristiques de votre système.
-
 
 ### Bottles
 **Bottles** facilite grandement l'utilisation de Wine en fournissant une interface graphique intuitive pour la gestion des configurations et des environnements virtuels de Wine. Il permet également de créer et de gérer plusieurs configurations de Wine pour différentes applications Windows, ce qui peut être très utile si vous avez besoin de faire fonctionner plusieurs applications Windows sur votre système Linux.
