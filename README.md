@@ -7,7 +7,7 @@ Also learning more about linux and his packages and documenting everything :grin
 
 | System| Technology| *Link*| 
 |:------------- |:-------------|-------------| 
-| DE      | KDE ou WM |
+| DE      | KDE ou HerbsluftWM with polybar|
 |Shell| zsh omzsh|
 |Prompt|Starship|https://github.com/starship/starship
 |Terminal|Kitty|https://sw.kovidgoyal.net/kitty/
