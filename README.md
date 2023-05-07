@@ -1,6 +1,7 @@
 
 # Enter The Void
-This is my **First Linux Rice**, my goal is to have a highly custom and performing system to use daily to play games and code. Also learning more about linux and his packages `:grin:`
+This is my First **Linux Rice**, my goal is to have a highly custom and performing system to use daily to play games and code. 
+Also learning more about linux and his packages :grin:
 
 
 | System| Technology| *Link*| 
