@@ -15,6 +15,8 @@ Also learning more about linux and his packages and documenting everything :grin
 |Color Scheme|Catppucin|https://github.com/catppuccin/catppuccin
 |Notification daemon|Dunst
 
+sudo xbps-install herbstluftwm polybar xorg-minimal xorg-fonts xsetroot feh
+
 ## System Packages
 ### VPM
 **VPM** pour "**Void Package Manager**", c'est un outil de gestion de paquets pour Void Linux. Il permet d'installer, de mettre à jour et de supprimer des paquets sur votre système Void. VPM utilise les dépôts officiels de Void pour les paquets, ainsi que les dépôts de la communauté pour certains paquets tiers. Il est similaire à d'autres gestionnaires de paquets tels que APT pour Debian et Ubuntu, ou Pacman pour Arch Linux.
