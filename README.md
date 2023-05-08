@@ -15,7 +15,7 @@ Also learning more about linux and his packages and documenting everything :grin
 |Color Scheme|Catppucin|https://github.com/catppuccin/catppuccin
 |Notification daemon|Dunst
 
-sudo xbps-install herbstluftwm polybar xorg-minimal xorg-fonts xsetroot feh
+sudo xbps-install xorg sddm herbstluftwm polybar xsetroot feh 
 
 ## System Packages
 ### VPM
