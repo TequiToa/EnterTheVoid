@@ -103,3 +103,5 @@ Bottles est disponible pour plusieurs distributions Linux, dont Ubuntu, Fedora, 
 - https://www.reddit.com/r/unixporn/comments/138ht06/kde_catppuccin_setup_of_my_dreams/
 - https://www.reddit.com/r/unixporn/comments/1354so3/oc_rofigames_a_small_rust_program_which_lets_you/
 - https://i.redd.it/d68v5rl608ya1.png
+
+- https://gist.github.com/themagicalmammal/e443d3c5440d566f8206e5b957ab1493#1-Gummiboot
