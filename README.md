@@ -105,3 +105,4 @@ Bottles est disponible pour plusieurs distributions Linux, dont Ubuntu, Fedora, 
 - https://i.redd.it/d68v5rl608ya1.png
 - https://github.com/polybar/polybar/wiki/Module:-mpd
 - https://gist.github.com/themagicalmammal/e443d3c5440d566f8206e5b957ab1493#1-Gummiboot
+- https://www.reddit.com/r/unixporn/comments/sypybx/bspwm_happypinky_my_attempt_to_use_catppuccin/
